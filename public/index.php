@@ -1,3 +1,7 @@
+<?php
+require '../vendor/autoload.php';
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,12 +13,7 @@
 </head>
 <body>
 
-  <?php
-  require '../vendor/autoload.php';
-
-  echo 'Hello wo';
-
-  ?>
+<?php require '../app/main.php'; ?>
 
 </body>
 </html>
