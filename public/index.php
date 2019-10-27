@@ -1,6 +1,6 @@
 <?php
 require '../vendor/autoload.php';
 
-echo 'Hello world';
+echo 'Hello wo';
 
 ?>
