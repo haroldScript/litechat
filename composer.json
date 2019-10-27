@@ -1,0 +1,15 @@
+{
+    "name": "whitetor/litechat",
+    "description": "chat en ligne deepweb",
+    "require": {
+        "altorouter/altorouter": "^1.2",
+        "carlosv2/allegro": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Harold Payet",
+            "email": "harold@exemple.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
