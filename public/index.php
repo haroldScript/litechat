@@ -14,6 +14,7 @@ require '../vendor/autoload.php';
 <body>
 
 <?php require '../app/main.php'; ?>
+<?php echo("Create in the keyboard of my tablette"); ?>
 
 </body>
 </html>
